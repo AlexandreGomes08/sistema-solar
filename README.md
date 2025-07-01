@@ -13,6 +13,11 @@ Um projeto de visualização 3D do Sistema Solar, desenvolvido com **Three.js**,
 
 ![Sistema solar](img/1.gif)
 
+## 🌐 Acesse o Projeto Online
+
+- 🔗 **Deploy na Vercel**: [sistema-solar-sand.vercel.app](https://sistema-solar-sand.vercel.app/)
+- ▶️ **Vídeo Explicativo no YouTube**: [Assista aqui](https://www.youtube.com/watch?v=SdDvw8o9pVo)
+
 ## Descrição
 
 Este projeto usa Three.js para criar uma visualização 3D interativa do Sistema Solar, exibindo o Sol e os planetas com suas respectivas texturas reais e movimentos. Cada planeta executa sua translação ao redor do Sol, respeitando velocidades relativas diferentes.
