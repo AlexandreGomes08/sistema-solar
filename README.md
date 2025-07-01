@@ -1,11 +1,9 @@
 ## Autores
 
-**Tom Jonnes França Aguiar - 500912**
-**Marcelo Henrique damasceno de castro - 500870**
-**Alexandre Gomes Camelo - 504315**
+**Tom Jonnes França Aguiar - 500912**  
+**Marcelo Henrique Damasceno de Castro - 500870**  
+**Alexandre Gomes Camelo - 504315**  
 **Ítalo Ramon Lopes Rodrigues - 499226**
-
-- GitHub:
 
 # Sistema Solar
 
